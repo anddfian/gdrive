@@ -2,8 +2,8 @@ Andi Alfian Bahtiar | Universitas Mulawarman | Program Studi Informatika Angkata
 
 # Hasil Eksplorasi Produk Google
 
-<b>Google Drive</b>  
-![](https://github.com/anddfian/gdrive/blob/main/Google_Drive_logo.png)  
+**Google Drive**
+![](https://github.com/anddfian/gdrive/blob/main/googledrivelogo.png)  
 Pasti sudah tidak asing dengan gambar diatas? yap tepat sekali di saat pandemi seperti ini banyak sekali data yang harus kita unggah ke dalam penyimpanan awan (cloud).
 
 Google Drive adalah layanan penyimpanan data tersinkronisasi yang dikembangkan oleh Google. Diluncurkan pada tanggal 24 April 2012, Google Drive memungkinkan penggunanya untuk menyimpan data di server mereka, mensinkronisasi data di perangkat yang berbeda, dan saling berbagi berkas.
